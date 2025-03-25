@@ -6,6 +6,10 @@ lets learn some concepts of machine learning.
  Logical Regression.
 Classification.
 Clustering.
+
 K-means
 Artificial Neural Network
 Convolutional Neural Network.
+
+K-means
+
