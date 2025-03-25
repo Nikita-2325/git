@@ -8,3 +8,4 @@ Classification.
 Clustering.
 K-means
 Artificial Neural Network
+Convolutional Neural Network.
