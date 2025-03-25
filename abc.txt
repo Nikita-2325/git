@@ -3,3 +3,4 @@ how are you?
  
 lets learn some concepts of machine learning.
  Linear Regression.
+ Logical Regression.
