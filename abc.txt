@@ -12,4 +12,5 @@ Artificial Neural Network
 Convolutional Neural Network.
 
 K-means
+ git remote add origin https://github.com/Nikita-2325/git.git
 
